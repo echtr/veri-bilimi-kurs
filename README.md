@@ -3,4 +3,4 @@ https://www.udemy.com/course/python-egitimi/ adlı kurs için not defteri tarzı
 
 | konu | bölümler |
 | -----| ---------|
-| Numpy | 116-? |
+| numpy | 116-? |
