@@ -5,4 +5,4 @@ https://www.udemy.com/course/python-egitimi/ adlı kurs için not defteri tarzı
 | -----| ---------|
 | numpy | 116-128 |
 | pandas | 130-146 |
-| keşifçi veri analizi ve veri görselleştirme | 152-? |
+| keşifçi veri analizi ve veri görselleştirme | 152-174 |
